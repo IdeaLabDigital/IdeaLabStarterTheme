@@ -2,7 +2,7 @@
 ```bash
 $ cd my-wordpress-folder/wp-content/themes/
 $ git clone https://github.com/IdeaLabDigital/IdeaLabStarterTheme.git
-$ cd IdealabStarter
+$ cd IdealabStarterTheme
 $ npm install
 ```
 
